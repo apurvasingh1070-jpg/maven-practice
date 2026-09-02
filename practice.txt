@@ -1,1 +1,1 @@
-I am practicing Git and GitHub
+I made my first GitHub update.
